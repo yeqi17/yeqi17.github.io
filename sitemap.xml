@@ -3,17 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://yeqi17.github.io/post/article/</loc>
+    <lastmod>2017-12-14T11:18:15+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://yeqi17.github.io/categories/</loc>
+    <lastmod>2017-12-14T11:18:15+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yeqi17.github.io/post/</loc>
+    <lastmod>2017-12-14T11:18:15+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yeqi17.github.io/tags/</loc>
+    <lastmod>2017-12-14T11:18:15+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yeqi17.github.io/</loc>
+    <lastmod>2017-12-14T11:18:15+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yeqi17.github.io/tags/hugo/</loc>
+    <lastmod>2017-12-14T11:18:15+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yeqi17.github.io/categories/pages/</loc>
+    <lastmod>2017-12-14T11:18:15+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yeqi17.github.io/tags/pages/</loc>
+    <lastmod>2017-12-14T11:18:15+08:00</lastmod>
     <priority>0</priority>
   </url>
   
