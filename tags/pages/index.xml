@@ -1,24 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>pages on VIM - THE EDITOR FOR GOD</title>
+    <title>pages on Practice Makes Perfect</title>
     <link>https://yeqi17.github.io/tags/pages/</link>
-    <description>Recent content in pages on VIM - THE EDITOR FOR GOD</description>
+    <description>Recent content in pages on Practice Makes Perfect</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Theme from &lt;a href=&#34;https://themes.gohugo.io/vienna/&#34;&gt;vienna&lt;/a&gt; </copyright>
-    <lastBuildDate>Thu, 14 Dec 2017 11:18:15 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2019 11:18:15 +0800</lastBuildDate>
     
 	<atom:link href="https://yeqi17.github.io/tags/pages/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My First Post</title>
+      <title>DEMO</title>
       <link>https://yeqi17.github.io/post/article/</link>
-      <pubDate>Thu, 14 Dec 2017 11:18:15 +0800</pubDate>
+      <pubDate>Mon, 18 Nov 2019 11:18:15 +0800</pubDate>
       
       <guid>https://yeqi17.github.io/post/article/</guid>
-      <description>第一篇blog  </description>
+      <description>第一篇 blog  </description>
+    </item>
+    
+    <item>
+      <title>使用 Hugo 搭建 Blog</title>
+      <link>https://yeqi17.github.io/post/%E4%BD%BF%E7%94%A8hugo%E6%90%AD%E5%BB%BAblog/</link>
+      <pubDate>Mon, 18 Nov 2019 11:18:15 +0800</pubDate>
+      
+      <guid>https://yeqi17.github.io/post/%E4%BD%BF%E7%94%A8hugo%E6%90%AD%E5%BB%BAblog/</guid>
+      <description>1.安装HOGO 环境:mac
+安装:
+brew install hugo  hugo常用指令:
+ hugo new 命令用于为网站生成新的内容, 其后可以接上命令也可以接上路径. hugo server , 该命令应该在网站根目录下运行, 然后启动 hugo 服务, 便可以在浏览器中输入网址来浏览生成的网站了.  2.创建网站 hugo new site hugosite   下载主题到hugosite的theme目录 如何设置主题为站点主题  3.搭建blog 以 user.github.io 为例, 用户名为 user.
+申请 github 账号,新建两个 repo:
+ user.github.io  这个 repo 用来存储 hugo 编译后的静态网站.
+ hugosite  这个 repo 用来存储静态网站的原始文件.
+ 在本地新建 hugosite 文件夹
+hugo new site hugosite  进入该文件夹
+cd hugosite  与远程 hugosite repo 关联</description>
     </item>
     
   </channel>

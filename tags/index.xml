@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on VIM - THE EDITOR FOR GOD</title>
+    <title>Tags on Practice Makes Perfect</title>
     <link>https://yeqi17.github.io/tags/</link>
-    <description>Recent content in Tags on VIM - THE EDITOR FOR GOD</description>
+    <description>Recent content in Tags on Practice Makes Perfect</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Theme from &lt;a href=&#34;https://themes.gohugo.io/vienna/&#34;&gt;vienna&lt;/a&gt; </copyright>
-    <lastBuildDate>Thu, 14 Dec 2017 11:18:15 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2019 11:18:15 +0800</lastBuildDate>
     
 	<atom:link href="https://yeqi17.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>hugo</title>
       <link>https://yeqi17.github.io/tags/hugo/</link>
-      <pubDate>Thu, 14 Dec 2017 11:18:15 +0800</pubDate>
+      <pubDate>Mon, 18 Nov 2019 11:18:15 +0800</pubDate>
       
       <guid>https://yeqi17.github.io/tags/hugo/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>pages</title>
       <link>https://yeqi17.github.io/tags/pages/</link>
-      <pubDate>Thu, 14 Dec 2017 11:18:15 +0800</pubDate>
+      <pubDate>Mon, 18 Nov 2019 11:18:15 +0800</pubDate>
       
       <guid>https://yeqi17.github.io/tags/pages/</guid>
       <description></description>
